@@ -1,0 +1,8 @@
+name: UNO Q Vision Servo
+description: ""
+ports: []
+bricks:
+- arduino:video_image_classification:
+    model: person-classification
+- arduino:web_ui: {}
+icon: 👾
