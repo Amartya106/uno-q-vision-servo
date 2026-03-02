@@ -100,7 +100,13 @@ Stand in front of the camera — the servo should wave and the LED matrix should
 
 ## 📸 Demo
 
-*(Add images or GIFs here if you record a demo)*
+A quick preview of the system detecting a person and responding.
+
+![Demo](assets/demo.gif)
+
+**Full video:** [Watch here](assets/demo.mp4)
+
+<img src="assets/setup.jpeg" width="500">
 
 ---
 
