@@ -104,7 +104,7 @@ A quick preview of the system detecting a person and responding.
 
 ![Demo](assets/demo.gif)
 
-**Full video:** [Watch here](assets/demo.mp4)
+**Full video:** [Watch here](assets/updated_demo.mp4)
 
 <img src="assets/setup.jpeg" width="500">
 
